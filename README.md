@@ -23,7 +23,7 @@ I) Entity Relation Diagram Model
 
 
 
-II) KPIs and high-level performance overview
+II) KPIs and High-Level Performance Overview
 
 
 ![AW1](https://github.com/Mahesh0810/adventure_works_powerbi/assets/121875865/77bb84b5-851f-4ee9-9ca4-040c54ad1948)
@@ -32,7 +32,7 @@ II) KPIs and high-level performance overview
 
 
 
-III) Global distribution of sales overview
+III) Global Distribution of Sales Overview
 
 
 ![AW2](https://github.com/Mahesh0810/adventure_works_powerbi/assets/121875865/0affad27-b12d-41a4-b6d7-e920319db2d0)
